@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:lightblue;
+
+}
+.main span{
+font-size:  120px;
+font-family:"SF Pro Display",'Square Market','Hlvetica Neue','Hlvetic',ans-serif;
+display: flex;
+justify-content: center;
+padding:10px 0 10px 0;
+font-weight: 545px;
+}
+.main button{
+    font-family:"SF Pro Display","georgia","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin:10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 300px;
+    font-size:5rem;
+    background-color: lightblue;
+    border-radius: 20px;
+    margin: 0 auto;
+    background-color:white;
+}
+#amin2{
+margin: 0 0 0 45px;
+}
